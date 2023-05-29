@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://yangshusen2001.github.io/"
 
 github:
-  username: github_username # change to your github username
+  username: yangshusen2001 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -197,3 +197,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+math : true
